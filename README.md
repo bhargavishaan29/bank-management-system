@@ -1,5 +1,5 @@
 # bank-management-system
-Absolutely. Here’s a **clean, professional ~300-word README description** you can paste directly into GitHub. It’s written to be easy to read for **you, recruiters, and future-you**.
+
 
 ---
 
